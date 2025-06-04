@@ -31,14 +31,14 @@ Esta é uma API REST desenvolvida com **Spring Boot** para gerenciar o processo 
 ## 🔗 Repositório do Front-end
 
 Você pode acessar o repositório da interface de login no GitHub:  
-👉 [https://github.com/Gabrieodev/Pagina-de-login-frontend](https://github.com/Gabrieodev/Pagina-de-login-frontend)
+👉 [Repositório do Front-end](https://github.com/Gabrieodev/Pagina-de-login)
 
 ---
 
 ## 🌍 Aplicação ao vivo
 
 A aplicação está disponível em:  
-🔗 [https://login-app-gabriel.vercel.app](https://login-app-gabriel.vercel.app)  
+🔗 [Login Page - Aplicação ao Vivo](https://login-app-gabriel.vercel.app)  
 
 ---
 
