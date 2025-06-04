@@ -56,3 +56,7 @@ Durante o desenvolvimento deste projeto, foram aprofundados os seguintes conheci
 - Uso do **IntelliJ IDEA** para produtividade e organização no desenvolvimento
 
 ---
+
+## 🙏 Agradecimentos
+
+Agradeço a todos que acompanham minha jornada e incentivam meu crescimento na área da tecnologia. Este projeto representa mais um passo na construção de uma carreira sólida, com aprendizado contínuo, dedicação e paixão por desenvolvimento de software.
