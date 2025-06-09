@@ -35,13 +35,6 @@ Você pode acessar o repositório da interface de login no GitHub:
 
 ---
 
-## 🌍 Aplicação ao vivo
-
-A aplicação está disponível em:  
-🔗 [Login Page - Aplicação ao Vivo](https://login-app-gabriel.vercel.app)  
-
----
-
 ## 📘 O que foi aprendido
 
 Durante o desenvolvimento deste projeto, foram aprofundados os seguintes conhecimentos:
